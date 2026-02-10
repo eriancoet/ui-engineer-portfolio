@@ -1,11 +1,32 @@
+# Portfolio Site – UI Engineer
 
-  # Portfolio Site Structure
+This repository contains my personal **UI Engineer portfolio**, showcasing my work in modern frontend development, component-driven UI, and responsive design.
 
-  This is my portfolio of Rian, the live site can be accessed at:
+🔗 **Live site:**  
+https://rian-ui.netlify.app/
 
-  ## Running the code from vscode
+---
 
-  Run `npm i` to install the dependencies.
+## 🚀 Tech Stack
+- **React 18**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
+- **Radix UI**
+- **Lucide Icons**
 
-  Run `npm run dev` to start the development server.
-  
+---
+
+## 🧑‍💻 Running the project locally
+
+### Prerequisites
+- Node.js (LTS recommended)
+- npm
+
+### Setup
+Clone the repository and install dependencies:
+
+```bash
+npm install
+
+npm run dev
