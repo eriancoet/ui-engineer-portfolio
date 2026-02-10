@@ -6,8 +6,7 @@ export default function ThankYou() {
       <div className="max-w-xl text-center">
         <h1 className="text-4xl sm:text-5xl mb-4">Thank you! 🙌</h1>
         <p className="text-lg text-gray-600 mb-8">
-          Your message has been sent successfully. I’ll get back to you as soon
-          as possible.
+          Your message has been sent successfully. I’ll get back to you soon.
         </p>
 
         <Link
